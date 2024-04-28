@@ -2,8 +2,8 @@ package Java;
 
 import java.util.Scanner;
 
-// V koninin hacmi, r koninin tabanının yarıçapı
-// ve h ise koninin yüksekliği olmak üzere
+// Yüksekliği ve taban yarıçapı verilen koninin hacmini bulan program
+// V koninin hacmi, r koninin tabanının yarıçapı ve h ise koninin yüksekliği olmak üzere
 // V = 1/3πr2h formülü kullanılmaktadır.
 
 public class Exercise2Koni {

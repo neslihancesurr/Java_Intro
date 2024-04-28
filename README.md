@@ -1,1 +1,2 @@
 This repo includes solutions to the exercises of Module 1 from *Java ile Programlamaya Giriş* by Prof. Dr. Olcay Taner Yıldız.
+The aim of the exercises is to make beginners understand how to read input from the user and make calculations with the input.
